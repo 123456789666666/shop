@@ -1,0 +1,25 @@
+.x{
+    background-color:  #EFEFEF;
+} 
+.products{
+    background-color:  #E9EEF5
+}
+.xz:hover{
+    color: white;
+    background-color: green;
+}
+.produ{
+    background-color: #EFEFEF;
+}
+footer{
+background-color: #212934;    
+}
+.bhkkk i{
+    border: solid 1px white;
+    padding: 10px;
+
+}
+.bhkkk i:hover{
+    color: #212934;
+    background-color: white;
+}
